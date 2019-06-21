@@ -9,6 +9,7 @@
 * [http://vmwa.re/vmc-ideas](http://vmwa.re/vmc-ideas) - VMC Feature Requests
 * [http://vmwa.re/vmc-status](http://vmwa.re/vmc-status) - VMC Status Page
 * [http://vmwa.re/vmc-rn](http://vmwa.re/vmc-rn) - VMC Release Notes
+* [http://vmwa.re/vmc-configmax](http://vmwa.re/vmc-configmax) - VMC Configuration Maximum
 * [http://vmwa.re/vmc-regions](http://vmwa.re/vmc-regions) - VMC Regions
 * [http://vmwa.re/vmc-community](http://vmwa.re/vmc-community) - VMC VMTN Community
 * [http://vmwa.re/vmc-blog](http://vmwa.re/vmc-blog) - VMC Blog
