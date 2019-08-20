@@ -12,7 +12,9 @@
 * [http://vmwa.re/vmc-api](http://vmwa.re/vmc-api) - VMC API Reference
 * [http://vmwa.re/vmc-configmax](http://vmwa.re/vmc-configmax) - VMC Configuration Maximum
 * [http://vmwa.re/vmc-regions](http://vmwa.re/vmc-regions) - VMC Regions
+* [http://vmwa.re/vmc-podcast](http://vmwa.re/vmc-podcast) - VMC Podcast
 * [http://vmwa.re/vmc-community](http://vmwa.re/vmc-community) - VMC VMTN Community
+* [http://vmwa.re/vmc-lighteninglab](http://vmwa.re/vmc-lighteninglab) - VMC Lightening Lab
 * [http://vmwa.re/vmc-blog](http://vmwa.re/vmc-blog) - VMC Blog
 * [http://vmwa.re/vmc-video](http://vmwa.re/vmc-video) - VMC Videos
 * [http://vmwa.re/vmc-hol](http://vmwa.re/vmc-hol) - VMC Hands On Lab
