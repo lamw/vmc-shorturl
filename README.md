@@ -20,4 +20,4 @@
 * [http://vmwa.re/vmc-hol](http://vmwa.re/vmc-hol) - VMC Hands On Lab
 * [http://vmwa.re/vmc1host](http://vmwa.re/vmc1host) - VMC 1-Node SDDC
 * [http://vmwa.re/vmc3host](http://vmwa.re/vmc3host) - VMC 3-Node SDDC
-* [http://vmwa.re/vmc-outpost](http://vmwa.re/vmc-outpost) - VMC Outposts
+* [http://vmwa.re/vmc-outposs](http://vmwa.re/vmc-outposts) - VMC Outposts
