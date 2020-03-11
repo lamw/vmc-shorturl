@@ -21,3 +21,4 @@
 * [http://vmwa.re/vmc1host](http://vmwa.re/vmc1host) - VMC 1-Node SDDC
 * [http://vmwa.re/vmc3host](http://vmwa.re/vmc3host) - VMC 3-Node SDDC
 * [http://vmwa.re/vmc-outposs](http://vmwa.re/vmc-outposts) - VMC Outposts
+* [http://vmwa.re/tkgplus-support](http://vmwa.re/tkgplus-support) - VMware Tanzu Kuberentes Plus Grid Support Matrix
