@@ -22,3 +22,4 @@
 * [http://vmwa.re/vmc3host](http://vmwa.re/vmc3host) - VMC 3-Node SDDC
 * [http://vmwa.re/vmc-outposs](http://vmwa.re/vmc-outposts) - VMC Outposts
 * [http://vmwa.re/tkgplus-support](http://vmwa.re/tkgplus-support) - VMware Tanzu Kuberentes Plus Grid Support Matrix
+* [http://vmwa.re/vmc-eula](https://www.vmware.com/download/eula/vmware-cloud-on-aws.html) - VMC EULA, Terms of Service & SLA Documents
