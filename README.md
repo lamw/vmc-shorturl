@@ -3,6 +3,7 @@
 * [http://vmwa.re/vmc](http://vmwa.re/vmc) - This page
 * [http://vmwa.re/vmc-overview](http://vmwa.re/vmc-overview) - VMC Overview
 * [http://vmwa.re/vmc-arch-guide](http://vmwa.re/vmc-arch-guide) - VMC Architecture Guide
+* [http://vmwa.re/vmc-design-guide](http://vmwa.re/vmc-design-guide) - VMC Design Guide
 * [http://vmwa.re/vmc-solbrief](http://vmwa.re/vmc-solbrief) - VMC Solution Brief
 * [http://vmwa.re/vmc-faq](http://vmwa.re/vmc-faq) - VMC FAQ
 * [http://vmwa.re/vmc-tco](http://vmwa.re/vmc-tco) - VMC TCO
