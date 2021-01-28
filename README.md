@@ -26,3 +26,4 @@
 * [http://vmwa.re/tkgplus-support](http://vmwa.re/tkgplus-support) - VMware Tanzu Kuberentes Plus Grid Support Matrix
 * [http://vmwa.re/vmc-eula](http://vmwa.re/vmc-eula) - VMC EULA, Terms of Service & SLA Documents
 * [http://vmwa.re/vmc-ospar-wp](http://vmwa.re/vmc-ospar-wp) - Outsourced Service Provider Audit Report (OSPAR) Whitepaper
+* [http://vmwa.re/vmc-compliance](http://vmwa.re/vmc-compliance) - VMware Cloud Compliance
