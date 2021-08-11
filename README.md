@@ -1,7 +1,8 @@
-# VMware Cloud on AWS (VMC) short URLs
+# VMware Cloud short URLs
 
 * [http://vmwa.re/vmc](http://vmwa.re/vmc) - This page
 * [http://vmwa.re/vmc-overview](http://vmwa.re/vmc-overview) - VMC Overview
+* [http://vmwa.re/vmc-doc](http://vmwa.re/vmc-doc) - VMC Documentation
 * [http://vmwa.re/vmc-arch-guide](http://vmwa.re/vmc-arch-guide) - VMC Architecture Guide
 * [http://vmwa.re/vmc-design-guide](http://vmwa.re/vmc-design-guide) - VMC Design Guide
 * [http://vmwa.re/vmc-solbrief](http://vmwa.re/vmc-solbrief) - VMC Solution Brief
